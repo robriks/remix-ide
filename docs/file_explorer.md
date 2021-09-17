@@ -44,7 +44,7 @@ Delete a Workspace **D.** <br>
 
 ## File Manipulation
 
-Click on the new file icon (**E.**), an input for a new the file’s name will appear in the **Explorer**. Once a name is entered, the new empty file will open in the Editor.
+Click on the new file icon (**E.**), an input for a new file’s name will appear in the **Explorer**. Once a name is entered, the new empty file will open in the Editor.
 
 ![](images/a-file-explorer-new-file2.png)
 
@@ -58,7 +58,7 @@ The icon (marked **F.** above) creates a new folder in the current workspace.
 Publish to Gist
 ---------------
 
-The icon (marked **G.** above) publishes all files from the current Workspace to a gist.  Only file in the root of **browser** will be published.  Files in subfolders will not be published to the Gist.
+The icon (marked **G.** above) publishes all files from the current Workspace to a gist.  Only files in the root of **browser** will be published.  Files in subfolders will not be published to the Gist.
 
 Gist API **requires** users to be authenticated to be able to publish a gist.  
 
